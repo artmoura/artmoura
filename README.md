@@ -10,7 +10,7 @@ Tech Lead e Arquiteto de Software com +10 anos de experiência. Crio sistemas es
 
 ## 🎓 Formação
 - Engenharia da Computação @ FIAP (2014-2018)
-- Inglês @ EF Englishtown (2015-2016)
+- Cambridge B1 first
 - Robótica Industrial @ Senai São Paulo (2014)
 - Programador Java/SQL @ Impacta Tecnologia (2011)
 
