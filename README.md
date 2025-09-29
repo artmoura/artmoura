@@ -4,7 +4,7 @@ Tech Lead e Arquiteto de Software com +10 anos de experiência. Crio sistemas es
 
 ## 🚀 Sobre mim
 - 📍 **Localização**: São Paulo, Brasil
-- 💻 **Habilidades**: Ruby on Rails, React, Next.js, Node.js, Python, AWS (CloudFormation, Lambda, SQS, DynamoDB, ElasticSearch, RDS, SNS, SES), APIs, Microsserviços, WebSockets, DevOps, CI/CD
+- 💻 **Habilidades**: Ruby on Rails, React, Next.js, Node.js, Dart, Python, AWS (CloudFormation, Lambda, SQS, DynamoDB, ElasticSearch, RDS, SNS, SES), APIs, Microsserviços, WebSockets, DevOps, CI/CD
 - 🌐 **Contato**: [LinkedIn](https://linkedin.com/in/artmoura) | [Email](mailto:arthurjm95@gmail.com)
 - 📜 **Certificações**: B1 First (Inglês), TOEIC
 
