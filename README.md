@@ -1,78 +1,94 @@
-# Hey there! 👋 I'm Arthur
+# Hey! 👋 I'm Arthur
 
-**Senior Fullstack Engineer** from São Paulo, Brazil 🇧🇷
+**Fullstack Engineer** from São Paulo, Brazil 🇧🇷
 
-I build scalable web applications with a focus on backend architecture and clean code. Over 10 years turning complex business problems into elegant technical solutions.
+I build things for the web. 10+ years turning ideas into production systems that actually work and scale.
 
-## 🔧 Tech Stack
+## 🔧 What I Work With
 
-**Backend (My Comfort Zone)**
+**Backend (Where I Live)**
 ```ruby
-Rails.where(passion: :backend)
-     .includes(:sidekiq, :redis, :postgresql)
-     .order(experience: :desc)
+# 8+ years building with Ruby on Rails
+Rails.application.routes.draw do
+  resources :scalable_apis
+  resources :background_jobs
+  resources :real_time_systems
+end
 ```
-- **Ruby on Rails** - 8+ years building APIs, background jobs, and complex business logic
-- **Node.js** - Serverless architectures and microservices
-- **PostgreSQL / Redis** - Database design and optimization
-- **GraphQL & REST** - Designing scalable APIs
+- Ruby on Rails, Node.js, Python
+- PostgreSQL, Redis, MongoDB
+- REST & GraphQL APIs
+- Sidekiq, message queues, async processing
 
-**Frontend (Getting Things Done)**
+**Frontend (Because Someone Has To)**
 ```javascript
-const frontend = ['React', 'Next.js', 'JavaScript', 'TypeScript'];
-// Because great backends need great UIs
+const skills = ['React', 'Next.js', 'Flutter', 'TypeScript'];
+// Full-stack means actually doing both ends
 ```
 
-**Infrastructure & Tools**
-- AWS (Lambda, S3, RDS, ElasticSearch, CloudFormation)
-- Docker, CI/CD, Linux
-- Git workflows and code review practices
+**Infrastructure**
+- AWS (Lambda, S3, RDS, ElasticSearch, DynamoDB)
+- Docker, Linux, CI/CD pipelines
+- Serverless & Microservices
 
-## 💼 What I'm Building
+## 💼 What I've Built
 
-Currently working on knowledge management and collaborative tools - wikis, rich text editors, and systems that help teams work together more effectively.
+I've built complete systems from scratch - the kind that start as an idea on a napkin and end up handling thousands of users in production:
 
-**Recent highlights:**
-- 🗂️ Built internal wiki system with markdown support and real-time collaboration
-- 📦 Architected logistics platform processing thousands of daily operations
-- 🔄 Migrated 15-year legacy system to modern web architecture with zero downtime
-- 📱 Developed offline-first Flutter apps for field operations
+- 📦 **Logistics platforms** - Fleet management, real-time tracking, offline-first mobile apps
+- 🤝 **Partnership systems** - Referral platforms, automated rewards, payment processing
+- 📝 **Knowledge management** - Wikis, documentation systems, collaborative tools
+- 🔄 **Legacy migrations** - Taking 15-year-old systems and making them modern without breaking things
+- 🏢 **ERPs** - Because every business needs custom software that actually fits
 
-## 🎯 What Drives Me
+## 🎯 How I Work
 
-- **Clean Architecture** - SOLID principles, DDD, and code that makes sense 6 months later
-- **Testing** - TDD with RSpec, because bugs in production are expensive
-- **Performance** - Fast APIs, optimized queries, and systems that scale
-- **Knowledge Sharing** - Good documentation is as important as good code
+**I care about:**
+- Code that works in production, not just on my machine
+- Tests that catch bugs before users do (RSpec enthusiast)
+- Architecture that makes sense when you revisit it 6 months later
+- Performance - slow is broken
+- Documentation - future you will thank present you
 
-## 🌱 Currently Learning
+**I don't care about:**
+- Perfect code that ships never
+- Premature optimization
+- Technology hype trains
+- 10x engineer nonsense
 
-- Diving deeper into Vue.js ecosystem (Vuex, VueApollo)
-- Exploring Rust for performance-critical services
-- Always improving system design and distributed systems knowledge
-
-## 📫 Let's Connect
-
-- **Email**: arthurjm95@gmail.com
-- **LinkedIn**: [linkedin.com/in/artmoura](https://linkedin.com/in/artmoura)
-- **Location**: São Paulo, Brazil (Remote-friendly, flexible with time zones)
-
-## 💭 Philosophy
+## 🛠️ My Approach
 
 ```ruby
-def write_code
-  loop do
-    make_it_work
-    make_it_right
-    make_it_fast # (only if needed)
-  end
+def solve_problem(requirements)
+  understand_the_real_need
+  choose_boring_technology
+  write_tests_first
+  ship_iteratively
+  monitor_in_production
+  improve_based_on_data
 end
 ```
 
+## 🌱 Always Learning
+
+Right now exploring:
+- Rust for when Ruby isn't fast enough
+- Advanced Elasticsearch patterns
+- System design at scale
+- Better ways to architect mobile-first systems
+
+## 📫 Get in Touch
+
+- **Email**: arthurjm95@gmail.com
+- **LinkedIn**: [linkedin.com/in/artmoura](https://linkedin.com/in/artmoura)
+- **Location**: São Paulo, Brazil 🇧🇷
+
 ---
 
-💡 **Fun fact**: I've built 4 production systems from scratch that are still running strong. My secret? Good tests, boring technology, and lots of coffee ☕
+💡 **Philosophy**: Make it work, make it right, then make it fast. In that order. 
+
+☕ **Powered by**: Coffee, clean code, and the belief that good software should be boring and reliable.
 
 ---
 
-⭐️ If you find my work interesting, feel free to explore my repositories or reach out for a chat about Ruby, APIs, or building things that scale!
+⭐️ If you're working on something interesting or just want to chat about building systems that scale, feel free to reach out!
