@@ -41,20 +41,35 @@ para cobrança.
 
 ## 🛠️ Stack
 
-<p align="center">
-  <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=rails,ruby,python,postgres,redis&theme=dark" alt="Rails, Ruby, Python, PostgreSQL, Redis">
-</p>
+<p align="center"><b>Backend</b></p>
 
-<p align="center">
-  <b>Frontend &amp; Mobile</b><br>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,flutter&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Flutter">
-</p>
+<table align="center"><tr>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=rails" width="44" alt="Rails"><br><sub><b>Rails</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=ruby" width="44" alt="Ruby"><br><sub><b>Ruby</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python"><br><sub><b>Python</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="Postgres"><br><sub><b>Postgres</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis"><br><sub><b>Redis</b></sub></td>
+</tr></table>
 
-<p align="center">
-  <b>Infraestrutura</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git&theme=dark" alt="AWS, Docker, GitHub Actions, Linux, Git">
-</p>
+<p align="center"><b>Frontend &amp; Mobile</b></p>
+
+<table align="center"><tr>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript"><br><sub><b>TypeScript</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React"><br><sub><b>React</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js"><br><sub><b>Next.js</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind"><br><sub><b>Tailwind</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=flutter" width="44" alt="Flutter"><br><sub><b>Flutter</b></sub></td>
+</tr></table>
+
+<p align="center"><b>Infraestrutura</b></p>
+
+<table align="center"><tr>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS"><br><sub><b>AWS</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker"><br><sub><b>Docker</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="Actions"><br><sub><b>Actions</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"><br><sub><b>Git</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux"><br><sub><b>Linux</b></sub></td>
+</tr></table>
 
 <p align="center">
   <sub>Na AWS: ECS, ECR, Lambda, DynamoDB, SNS e S3 — ambiente desenhado e montado por mim,<br>
@@ -116,20 +131,35 @@ CNAB bank files for billing.
 
 ### 🛠️ Stack
 
-<p align="center">
-  <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=rails,ruby,python,postgres,redis&theme=dark" alt="Rails, Ruby, Python, PostgreSQL, Redis">
-</p>
+<p align="center"><b>Backend</b></p>
 
-<p align="center">
-  <b>Frontend &amp; Mobile</b><br>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,flutter&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Flutter">
-</p>
+<table align="center"><tr>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=rails" width="44" alt="Rails"><br><sub><b>Rails</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=ruby" width="44" alt="Ruby"><br><sub><b>Ruby</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python"><br><sub><b>Python</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="Postgres"><br><sub><b>Postgres</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis"><br><sub><b>Redis</b></sub></td>
+</tr></table>
 
-<p align="center">
-  <b>Infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git&theme=dark" alt="AWS, Docker, GitHub Actions, Linux, Git">
-</p>
+<p align="center"><b>Frontend &amp; Mobile</b></p>
+
+<table align="center"><tr>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript"><br><sub><b>TypeScript</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React"><br><sub><b>React</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js"><br><sub><b>Next.js</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind"><br><sub><b>Tailwind</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=flutter" width="44" alt="Flutter"><br><sub><b>Flutter</b></sub></td>
+</tr></table>
+
+<p align="center"><b>Infrastructure</b></p>
+
+<table align="center"><tr>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS"><br><sub><b>AWS</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker"><br><sub><b>Docker</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="Actions"><br><sub><b>Actions</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"><br><sub><b>Git</b></sub></td>
+  <td align="center" width="88"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux"><br><sub><b>Linux</b></sub></td>
+</tr></table>
 
 <p align="center">
   <sub>On AWS: ECS, ECR, Lambda, DynamoDB, SNS and S3 — an environment I designed and built<br>
